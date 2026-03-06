@@ -1,0 +1,4 @@
+interface:
+  display_name: "CCF Rank Lookup"
+  short_description: "Look up CCF 2026 conference and journal rankings"
+  default_prompt: "Find CCF rank and category for conference/journal venues."
